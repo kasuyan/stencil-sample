@@ -1,0 +1,23 @@
+.wrapper {
+  max-width: 45%;
+}
+
+.select-outer {
+  margin: 0 auto;
+  padding: 0.5em 0.8em;
+  background-color: #ccc;
+}
+
+.select-inner {
+  padding: 0 8%;
+  color: #000;
+  background-color: #eee;
+}
+
+.active {
+  display: block;
+}
+
+.inactive {
+  display: none;
+}
